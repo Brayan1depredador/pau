@@ -1,0 +1,126 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="description" content="Conoce a Paulina Ailanis, una maestra apasionada por la educación preescolar."> 
+    <meta name="keywords" content="Paulina Ailanis, maestra, educación preescolar, niños, enseñanza"> 
+    <meta name="author" content="Tu Nombre"> 
+    <title>Paulina Ailanis - Maestra de Preescolar</title> 
+    <link rel="stylesheet" href="styles.css"> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        } 
+        h1, h2, h3 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .highlight { 
+            color: #e74c3c; 
+            font-weight: bold; 
+            font-size: 1.2em;
+        }
+        header, footer {
+            background-color: #3498db;
+            padding: 20px;
+            color: white;
+        }
+        footer p {
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+            background-color: white;
+            margin: 10px auto;
+            width: 80%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .centered {
+            text-align: center;
+        }
+        .qr-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style> 
+</head> 
+<body> 
+    <header> 
+        <h1>Paulina Ailanis - Maestra Preescolar</h1> 
+    </header> 
+
+    <main>
+        <div class="content">
+            <!-- Introducción --> 
+            <section id="introduccion"> 
+                <h2>Conoce a Paulina Ailanis</h2> 
+                <p>Paulina Ailanis es una <span class="highlight">maestra apasionada</span> dedicada a la enseñanza de los niños en el nivel preescolar. Con años de experiencia en la educación infantil, su principal objetivo es brindar un espacio seguro y estimulante para que los niños aprendan y crezcan en su primer contacto con la educación formal.</p>
+            </section>
+
+            <!-- Filosofía Educativa -->
+            <section id="filosofia"> 
+                <h2>Filosofía Educativa</h2> 
+                <p>La filosofía educativa de Paulina Ailanis se basa en la importancia de la <strong>educación emocional</strong> y <strong>cognitiva</strong> en los primeros años de vida. Ella cree firmemente que cada niño es único y tiene su propio ritmo de aprendizaje, por lo que adapta sus métodos y actividades a las necesidades individuales de los pequeños.</p>
+                <p>Su enfoque pedagógico se enfoca en:</p>
+                <ul>
+                    <li><strong>Estimulación temprana</strong> para potenciar habilidades motoras, lingüísticas y cognitivas.</li>
+                    <li><strong>Aprendizaje a través del juego</strong>, facilitando experiencias que fomenten la creatividad y resolución de problemas.</li>
+                    <li><strong>Educación inclusiva</strong>, asegurando que todos los niños, independientemente de sus habilidades, tengan acceso a un aprendizaje significativo.</li>
+                </ul>
+            </section>
+
+            <!-- Metodología -->
+            <section id="metodologia">
+                <h2>Metodología de Enseñanza</h2>
+                <p>Paulina utiliza una variedad de metodologías innovadoras adaptadas a las necesidades de los niños. Algunas de sus principales estrategias incluyen:</p>
+                <ul>
+                    <li><strong>Educación socioemocional</strong> para ayudar a los niños a reconocer y gestionar sus emociones.</li>
+                    <li><strong>Actividades lúdicas</strong> que permiten el aprendizaje en un ambiente divertido y sin presión.</li>
+                    <li><strong>Trabajo en equipo</strong> para fomentar habilidades de cooperación y respeto entre los compañeros.</li>
+                </ul>
+            </section>
+
+            <!-- Compromiso con los padres -->
+            <section id="compromiso">
+                <h2>Compromiso con los Padres</h2>
+                <p>Paulina Ailanis no solo se compromete con el desarrollo de los niños, sino también con los padres de familia. Organiza reuniones periódicas para mantener una comunicación abierta y transparente sobre el progreso de los niños y ofrecer sugerencias sobre cómo apoyar su desarrollo en casa.</p>
+            </section>
+
+            <!-- Testimonios -->
+            <section id="testimonios">
+                <h2>Testimonios</h2>
+                <p>Los padres de sus alumnos resaltan la dedicación y cariño que Paulina pone en su trabajo. Algunos testimonios incluyen:</p>
+                <blockquote>
+                    <p>"Gracias a Paulina, mi hijo ha aprendido a relacionarse mejor con sus compañeros y se siente más seguro para aprender nuevas cosas." - Mariana, madre de Lucas.</p>
+                </blockquote>
+                <blockquote>
+                    <p>"El ambiente que Paulina crea en su salón es único. Mis hijos siempre esperan con entusiasmo las clases." - Carlos, padre de Valentina y Diego.</p>
+                </blockquote>
+            </section>
+
+            <!-- Código QR -->
+            <section class="qr-container">
+                <h2>Escanea el Código QR para visitar la página más rápido</h2>
+                <img src="https://www.example.com/qr-code.png" alt="Código QR" width="200" height="200">
+                <p>Escanea el código QR con tu teléfono para acceder a esta página de manera rápida y fácil.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer> 
+        <p>Creado por <span class="highlight">Tu Nombre</span>. Educación Infantil &copy; 2025</p> 
+    </footer> 
+</body> 
+</html>
